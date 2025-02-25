@@ -30,7 +30,6 @@ a tech enthusiast passionate about Embedded System ⚡, IoT🛰 ,PCB Designer �
   ![keil](https://img.shields.io/badge/-Keil-333333?style=flat&logo=armkeil&logoColor=#394049)
   ![arduino](https://img.shields.io/badge/-Arduino-333333?style=flat&logo=arduino&logoColor=#00878F)
   ![code vision](https://img.shields.io/badge/-Codevision-333333?style=flat&logoColor=#E02027)
-  ![matlab](https://img.shields.io/badge/-Matlab-333333?style=flat&logoColor=#E02027)
   ![altiumdesigner](https://img.shields.io/badge/-Altiumdesigner-333333?style=flat&logo=altiumdesigner&logoColor=#A5915F)
   ![stmicroelectronics](https://img.shields.io/badge/-STMicroelectronics-333333?style=flat&logo=stmicroelectronics&logoColor=#03234B)
 - 🖥 &nbsp;
